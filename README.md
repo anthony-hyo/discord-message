@@ -20,7 +20,7 @@ composer require anthhyo/discord-message
 
 ## Requirements
 
-* PHP 8.0 or higher
+* PHP 8.1.3 or higher
 * `ext-json`
 * `ext-curl`
 * PSR-3 compatible logger (optional, default to `NullLogger`)
